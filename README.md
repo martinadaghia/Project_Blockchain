@@ -1,2 +1,15 @@
-# Progetto-Blockchain
-Progetto Blockchain 2023-2024 in collaborazione con Martina Daghia e Martina Zauli
+# Analysis of the Complex Networks of Tweets Related to NFTs
+
+## Corso universitario
+Blockchain and cryptocurrencies
+
+## Laurea
+Laurea Magistrale in Informatica
+
+## Voto
+30 e Lode
+
+## Partecipanti
+- Martina Daghia
+- Martina Zauli
+- Riccardo Spini
